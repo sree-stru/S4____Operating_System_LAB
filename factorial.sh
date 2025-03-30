@@ -1,6 +1,5 @@
 ANUSREE KJ
 S4DS - ROLL NO:13
-
                           EXPERIMENT : FACTORIAL
 
 echo "Enter a positive integer"
